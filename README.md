@@ -7,5 +7,4 @@
 ---
 
 # CTF
-- [ ] TryHackMe
-  - [ ] RootMe  
+- [RootMe](CTF/RootMe/RootMe.md)
